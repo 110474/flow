@@ -6,4 +6,4 @@
 
 機能３：CCC
 
-<footer></footer>
+<footer>AAA</footer>
