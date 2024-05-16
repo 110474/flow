@@ -2,8 +2,8 @@
 
 機能１：AAA
 
-機能２：
+機能２：BBB
 
-機能３：
+機能３：CCC
 
 <footer></footer>
